@@ -1,4 +1,4 @@
-# HealthAI - Hospital Management System
+# Hospital Management System
 
 A comprehensive hospital management system designed to enhance patient-doctor interactions, streamline pharmacy operations, and provide efficient administration for healthcare facilities.
 
