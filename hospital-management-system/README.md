@@ -41,3 +41,14 @@ A comprehensive hospital management system designed to enhance patient-doctor in
 - **AWS EventBridge:** A serverless event bus service that makes it easy to connect applications using data from your own applications, integrated software as a service (SaaS) applications, or AWS services.
 
 - **AWS SNS (Notification system):** A fully managed messaging service for event-driven computing, facilitating timely alerts and notifications.
+
+## Screenshots
+
+![hms-patient-dashboard](https://github.com/user-attachments/assets/60d17dfa-f8cd-43db-8093-986612584960)
+_Patient dashboard_
+
+![hms-health-history-page](https://github.com/user-attachments/assets/92511001-8e87-4a62-ba0e-c5cc8428f697)
+_Patient health history page_
+
+![hms-reminders-page](https://github.com/user-attachments/assets/649cabbc-6375-499c-8685-a6aa95fb9419)
+_Patient reminders page with dialog to create new reminder_
