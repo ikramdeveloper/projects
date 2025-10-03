@@ -2,13 +2,17 @@
 
 JOMI (Journal of Medical Insights) offers on-demand virtual shadowing experiences by showcasing expert surgeons' practices. Its primary benefits include enhancing surgical education, improving patient outcomes, and providing critical preparation for rare and trauma cases. JOMI serves a diverse audience, including medical students, residents, and attending physicians, by keeping them updated with the latest surgical techniques and practices.
 
+<img width="2500" height="2000" alt="jomi-mockup" src="https://github.com/user-attachments/assets/80f4ed5d-66fe-42d9-a4c4-e14d22973c95" />
+
 ## Highlights
 
-- **Node.js Streaming with Cursor Pagination:** Implemented a Node.js streaming approach with cursor pagination in MongoDB for downloading tables with millions of records as CSVs quickly. This reduced the download time from minutes to just a few seconds.
-  
-- **Manual Cron Jobs with Cursor Pagination:** Developed a solution to update millions of records by running cron jobs manually without causing database lock issues. This was achieved by using cursor-based pagination to update specific fields in batches, allowing the server to perform other database operations concurrently.
-  
-- **Complex Aggregation Pipelines:** Wrote complex aggregation pipelines using Typegoose for MongoDB in the backend, optimizing data retrieval and processing.
+- Enhanced JOMI's backend by implementing Node.js streaming with cursor pagination, reducing CSV download times from minutes to seconds.
+
+- Developed cron jobs with cursor-based pagination to update millions of records without locking the database, improving overall system performance.
+
+- Optimized data retrieval with complex aggregation pipelines using Typegoose in MongoDB.
+
+- Contributed to bug fixes and functionality improvements across the system, leveraging technologies like Next.js, TypeScript, GraphQL, and Express.js.
 
 ## Technology Details for JOMI
 
