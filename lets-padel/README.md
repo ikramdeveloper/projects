@@ -1,6 +1,6 @@
 # Lets Padel - Padel courts booking site
 
-A full-featured platform where users can book padel courts by selecting venues, dates, and times, with secure payments via Stripe or Paysera.
+Built a booking platform where players reserve courts, pay securely via Stripe/Paysera, and manage schedules through user dashboards.
 
 <img width="1500" height="1125" alt="lets-padel-mockup" src="https://github.com/user-attachments/assets/84759bd1-3111-46c9-8068-ed0639d332f7" />
 
