@@ -2,6 +2,8 @@
 
 Built from the ground up, Callup is an exceptional video call platform that I've crafted to provide a seamless and feature-rich experience for users. This platform allows any user to register as a host, create public or private meetings, and set prices for participants to join. With a focus on security and convenience, participants must purchase tickets to join meetings, and private sessions are protected by passwords. Leveraging a powerful tech stack, including AWS services, Stripe Connect, NextJS and Jitsi, Callup offers a secure, efficient, and visually appealing environment for virtual interactions.
 
+<img width="1500" height="1500" alt="logfish-mockup" src="./assets/callup-mockup.png" />
+
 ## Features
 
 - **Host and Earn:** Register as a host, create public or private meetings, and set prices for participants to join.
@@ -34,7 +36,7 @@ Built from the ground up, Callup is an exceptional video call platform that I've
 
 Explore the live version of Callup at [callup.live](https://callup.live/).
 
-## Screenshots
+## Attachments
 
 ![Carousel Section](./assets/callup-carousel.png)
 _Describing use cases of callup with carousel_
