@@ -1,6 +1,6 @@
 # Logfish - Fish catch platform
 
-A mobile marketplace where users can log fish catches and buyers can browse and purchase listings.
+Developed backend microservices with NestJS, RabbitMQ, and MongoDB, integrating weather APIs and secure payments for a fishing marketplace.
 
 <img width="1500" height="1500" alt="logfish-mockup" src="https://github.com/user-attachments/assets/33072232-9b27-4a4c-858f-c5e1c9374b61" />
 
