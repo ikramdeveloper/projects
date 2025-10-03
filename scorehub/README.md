@@ -1,6 +1,6 @@
 # Scorehub - Online Predictions Platform
 
-A soccer prediction and earning platform, working on both frontend and backend while directly communicating with the client to ensure smooth delivery.
+Created a soccer prediction platform with social features, real-time data via SportMonks API, and AWS-powered scheduling and caching.
 
 <img width="1980" height="1458" alt="scorehub-mockup" src="https://github.com/user-attachments/assets/1d36cd6b-6540-4978-8aa8-4df855f85524" />
 
