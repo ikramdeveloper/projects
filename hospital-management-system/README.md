@@ -2,6 +2,8 @@
 
 A comprehensive hospital management system designed to enhance patient-doctor interactions, streamline pharmacy operations, and provide efficient administration for healthcare facilities.
 
+<img width="1197" height="759" alt="hms-mockup-2" src="https://github.com/user-attachments/assets/4a901a72-17de-40c6-ae0a-e2b15f2d7b43" />
+
 ## Features
 
 - **Patient Management:** Register/login, consult with available doctors, view health details (heart rate, blood pressure), prescriptions, video call history, and set medicine reminders.
@@ -42,7 +44,7 @@ A comprehensive hospital management system designed to enhance patient-doctor in
 
 - **AWS SNS (Notification system):** A fully managed messaging service for event-driven computing, facilitating timely alerts and notifications.
 
-## Screenshots
+## Attachments
 
 ![hms-patient-dashboard](https://github.com/user-attachments/assets/60d17dfa-f8cd-43db-8093-986612584960)
 _Patient dashboard_
