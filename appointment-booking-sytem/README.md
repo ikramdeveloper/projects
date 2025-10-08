@@ -2,7 +2,7 @@
 
 Mansoora Clinic is an appointment booking and medical store web application. Users can register, book appointments with doctors by selecting a date and time, and complete the booking with successful payment. Additionally, the platform includes a store where users can purchase medicines.
 
-<img width="2500" height="2000" alt="mansoora-mockup" src="https://github.com/user-attachments/assets/c9398885-606d-4e9d-a5f5-f17b3fcf6aa3" />
+<img width="2500" height="2000" alt="mansoora-mockup" src="https://github.com/user-attachments/assets/e3b33e2f-2597-4e4f-81ef-0c3ce1c1aba0" />
 
 ## Highlights
 
