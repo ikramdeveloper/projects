@@ -2,6 +2,8 @@
 
 A robust multi-vendor ecommerce management system designed to streamline the user experience for both buyers and sellers. Users can seamlessly switch between buyer and seller roles. Admins can view products, add and delete branded products, and track orders and invoices. The system also features custom role management, allowing administrators to grant specific permissions to employees, such as sales managers who can manage products and orders. Additionally, I've developed a backend for a mobile application, enabling users to register as buyers or sellers, and facilitating product transactions.
 
+<img width="1901" height="822" alt="multivendor-product-categories" src="https://github.com/user-attachments/assets/0a3f38bb-a178-4cb2-abb4-d022a2da5300" />
+
 ## Features
 
 - **User Management:** Admins can view and manage users, including the ability to block/unblock user accounts.
