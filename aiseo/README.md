@@ -1,12 +1,12 @@
 # Aiseo - Online Converter
 
-A free video converter using Flask and FFmpeg, enabling users to convert videos into various formats effortlessly.
+A free video converter using NextJS, FastApi and FFmpeg, enabling users to convert videos into various formats effortlessly.
 
 ![aiseo-mockup2](https://github.com/user-attachments/assets/5e7fa3b0-d565-4860-89aa-81019922bb25)
 
 ## Features
 
-- Developed a free video converter using Flask and FFmpeg, enabling users to convert videos into various formats effortlessly.
+- Developed a free video converter using FastApi and FFmpeg, enabling users to convert videos into various formats effortlessly.
 
 - Built a YouTube transcript generator leveraging FFmpeg and OpenAI APIs to deliver accurate transcriptions from video content.
 
