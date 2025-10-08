@@ -2,13 +2,17 @@
 
 Mansoora Clinic is an appointment booking and medical store web application. Users can register, book appointments with doctors by selecting a date and time, and complete the booking with successful payment. Additionally, the platform includes a store where users can purchase medicines.
 
+<img width="2500" height="2000" alt="mansoora-mockup" src="https://github.com/user-attachments/assets/c9398885-606d-4e9d-a5f5-f17b3fcf6aa3" />
+
 ## Highlights
 
-- **Appointment Booking System:** Implemented a user-friendly interface where users can register, select a doctor, choose an available date and time, and book appointments with successful payment integration.
+- Led the development of Mansoora Clinic, an appointment booking and medical store web application.
 
-- **Medical Store:** Developed a comprehensive online store where users can browse and purchase medicines, with secure payment processing.
-  
-- **Admin Panel for Doctors:** Created a ReactJS and TypeScript-based admin panel for doctors to manage appointments, view schedules, and interact with patients.
+- As a full stack developer and project lead, I designed a seamless system for users to book doctor appointments and purchase medicines online, integrating secure payment processing.
+
+- Built an admin panel for doctors to manage schedules.
+
+- Leveraged technologies like Next.js, TypeScript, NestJS, and MongoDB to ensure performance, security, and scalability, significantly enhancing user experience and operational efficiency.
 
 ## Technologies
 
@@ -58,5 +62,9 @@ Explore the live version of Mansoora Clinic at [mansoora.com](https://mansoora.c
 
 ## Screenshots
 ![Mansoora clinic](https://github.com/user-attachments/assets/1f6bd3b4-ff0e-40cb-9237-73d2f1588fc3)
-_Header section - Go to login or booking page_
+Header section - Go to login or booking page
+
+<br ><img width="1366" height="641" alt="mansoora-appointment-booking" src="https://github.com/user-attachments/assets/459eb807-4b37-402f-9ac7-bf7b5145be89" />
+Booking section where user can book slot by selecting date and time after login
+
 
