@@ -6,13 +6,19 @@ Created a soccer prediction platform with social features, real-time data via Sp
 
 ## Features
 
-- Led the development of Scorehub, a soccer prediction and earning platform, working on both frontend and backend while directly communicating with the client to ensure smooth delivery.
+- Led full-stack development while working directly with the client to deliver a production-ready platform.
 
-- Implemented core social features—likes, shares, comments, save predictions, and follow predictors—to boost engagement and interaction.
+- Built social engagement features including likes, comments, shares, saved predictions, and follower systems.
 
-- Built with Next.js (TypeScript), Shadcn, Nest.js, GraphQL, PostgreSQL, and SportMonks API for real-time soccer data.
+- Integrated live fixtures, results, and standings using the SportMonks API.
 
-- Deployed on AWS AppRunner with Elasticache for caching and EventBridge with Lambda to run schedulers.
+- Designed a performant backend with caching and scheduled jobs for timely data updates.
+
+- Accelerated development using AI-assisted workflows with Cursor and Claude, enabling rapid iteration and delivery.
+
+- Tech stack: Next.js (TypeScript), Shadcn UI, NestJS, GraphQL, PostgreSQL
+
+- Infrastructure: AWS App Runner, ElastiCache, EventBridge, AWS Lambda
 
 ## Attachments
 
