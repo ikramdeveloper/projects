@@ -4,6 +4,8 @@ A full affiliate management module built inside the Vonza SaaS platform,
 giving admins complete control over affiliate relationships and giving
 affiliates a clean self-serve interface for promotions.
 
+<img src="https://projects-panel.s3.us-east-1.amazonaws.com/projects/images/e446a7c8-ab66-444a-b044-7a2e4abdcc92-vonza-affiliate-admin.png" />
+
 ## What I Built
 
 **Admin side:**
@@ -33,3 +35,6 @@ GraphQL API. AWS Amplify (frontend) and AWS App Runner (backend).
   and refund deductions in a single query layer
 - Microservices boundary keeps affiliate tracking isolated from the
   core product and billing services
+
+## Attachments
+<img src="https://projects-panel.s3.us-east-1.amazonaws.com/projects/images/07bcc91f-898e-472e-b385-c7812c4c6d6d-vonza-affiliate-detail.png" />
